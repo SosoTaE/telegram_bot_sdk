@@ -1,4 +1,4 @@
-package main
+package telegram_bot_sdk
 
 type User struct {
 	Id        int64  `json:"id"`
